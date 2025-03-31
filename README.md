@@ -33,7 +33,7 @@ This Laravel project provides a CLI command and a RESTful API to manage and pars
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/coder-artisan/email-parser-backend.git
+git clone https://github.com/coder-artisan0719/email-parser-backend.git
 cd email-parser-backend
 ```
 
